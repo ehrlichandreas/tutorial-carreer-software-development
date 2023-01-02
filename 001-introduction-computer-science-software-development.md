@@ -5,7 +5,7 @@
 Welcome to the detailed tutorial on the topic of "Introduction to Computer Science and Software Development"! In this tutorial, we will cover the fundamentals of computer science and software development, including:
 
 - What computer science is and what it encompasses
-- The different types of software and their uses
+- The different stages of software development and their characteristics
 - The software development life cycle (SDLC) and its stages
 - Programming languages and frameworks
 - Algorithms and data structures
