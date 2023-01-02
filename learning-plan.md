@@ -75,7 +75,7 @@ Learning plan for someone who is interested in becoming a software architect, so
 - User experience (UX) design and usability testing
 - Marketing and sales strategies
 
-Other considerations:
+### Other considerations:
 
 - Legal and compliance considerations
 - Ethics and professional responsibility in software development
