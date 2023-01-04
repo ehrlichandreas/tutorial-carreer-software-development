@@ -260,7 +260,7 @@ Operating systems provide many services to other programs, including:
 
 - **File management**: The operating system provides a way for programs to access and manage files on the computer's storage devices.
 
-- **Memory management**: The operating system manages the allocation of memory to programs and ensures that different programs do not interfere with each other's memory.
+- **Memory management**: The operating system manages the allocation of memory to programs, and ensures that different programs do not interfere with each other's memory.
 
 - **Process management**: The operating system manages the execution of programs and ensures that they are allocated the resources they need to run.
 
@@ -466,4 +466,5 @@ In this tutorial, we have covered the following topics:
 - Types of careers available within the field of software development
 
 We hope that this tutorial has provided a useful overview of the field of software development and has given you a sense of what is involved in this exciting and dynamic field. Whether you are just starting out in your career or are an experienced software developer looking to expand your knowledge, we hope that this tutorial has provided you with valuable insights and information.
+
 
